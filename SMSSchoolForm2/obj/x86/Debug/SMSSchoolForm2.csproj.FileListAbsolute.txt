@@ -1,0 +1,32 @@
+c:\users\ssoldner21\documents\visual studio 2010\Projects\SMSSchoolForm2\SMSSchoolForm2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ssoldner21\documents\visual studio 2010\Projects\SMSSchoolForm2\SMSSchoolForm2\obj\x86\Debug\SMSSchoolForm2.Form1.resources
+c:\users\ssoldner21\documents\visual studio 2010\Projects\SMSSchoolForm2\SMSSchoolForm2\obj\x86\Debug\SMSSchoolForm2.Properties.Resources.resources
+c:\users\ssoldner21\documents\visual studio 2010\Projects\SMSSchoolForm2\SMSSchoolForm2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ssoldner21\documents\visual studio 2010\Projects\SMSSchoolForm2\SMSSchoolForm2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ssoldner21\documents\visual studio 2010\Projects\SMSSchoolForm2\SMSSchoolForm2\bin\Debug\SMSSchoolForm2.exe
+c:\users\ssoldner21\documents\visual studio 2010\Projects\SMSSchoolForm2\SMSSchoolForm2\bin\Debug\SMSSchoolForm2.pdb
+c:\users\ssoldner21\documents\visual studio 2010\Projects\SMSSchoolForm2\SMSSchoolForm2\obj\x86\Debug\SMSSchoolForm2.exe
+c:\users\ssoldner21\documents\visual studio 2010\Projects\SMSSchoolForm2\SMSSchoolForm2\obj\x86\Debug\SMSSchoolForm2.pdb
+c:\users\ssoldner21\documents\visual studio 2010\Projects\SMSSchoolForm2\SMSSchoolForm2\obj\x86\Debug\SMSSchoolForm2.NewMember.resources
+U:\VB.net\SMSSchoolForm2\SMSSchoolForm2\obj\x86\Debug\SMSSchoolForm2.exe
+U:\VB.net\SMSSchoolForm2\SMSSchoolForm2\obj\x86\Debug\SMSSchoolForm2.pdb
+U:\VB.net\SMSSchoolForm2\SMSSchoolForm2\bin\Debug\SMSSchoolForm2.exe
+U:\VB.net\SMSSchoolForm2\SMSSchoolForm2\bin\Debug\SMSSchoolForm2.pdb
+U:\VB.net\SMSSchoolForm2\SMSSchoolForm2\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\VB.net\SMSSchoolForm2\SMSSchoolForm2\obj\x86\Debug\SMSSchoolForm2.Form1.resources
+U:\VB.net\SMSSchoolForm2\SMSSchoolForm2\obj\x86\Debug\SMSSchoolForm2.NewMember.resources
+U:\VB.net\SMSSchoolForm2\SMSSchoolForm2\obj\x86\Debug\SMSSchoolForm2.Properties.Resources.resources
+U:\VB.net\SMSSchoolForm2\SMSSchoolForm2\obj\x86\Debug\GenerateResource.read.1.tlog
+U:\VB.net\SMSSchoolForm2\SMSSchoolForm2\obj\x86\Debug\GenerateResource.write.1.tlog
+U:\VB.net\SMSSchoolForm2\SMSSchoolForm2\obj\x86\Debug\SMSSchoolForm2.EditMember.resources
+C:\Users\Sean\Desktop\School\VB.net\SMSSchoolForm2\SMSSchoolForm2\obj\x86\Debug\SMSSchoolForm2.exe
+C:\Users\Sean\Desktop\School\VB.net\SMSSchoolForm2\SMSSchoolForm2\obj\x86\Debug\SMSSchoolForm2.pdb
+C:\Users\Sean\Desktop\School\VB.net\SMSSchoolForm2\SMSSchoolForm2\bin\Debug\SMSSchoolForm2.exe
+C:\Users\Sean\Desktop\School\VB.net\SMSSchoolForm2\SMSSchoolForm2\bin\Debug\SMSSchoolForm2.pdb
+C:\Users\Sean\Desktop\School\VB.net\SMSSchoolForm2\SMSSchoolForm2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sean\Desktop\School\VB.net\SMSSchoolForm2\SMSSchoolForm2\obj\x86\Debug\SMSSchoolForm2.EditMember.resources
+C:\Users\Sean\Desktop\School\VB.net\SMSSchoolForm2\SMSSchoolForm2\obj\x86\Debug\SMSSchoolForm2.Form1.resources
+C:\Users\Sean\Desktop\School\VB.net\SMSSchoolForm2\SMSSchoolForm2\obj\x86\Debug\SMSSchoolForm2.NewMember.resources
+C:\Users\Sean\Desktop\School\VB.net\SMSSchoolForm2\SMSSchoolForm2\obj\x86\Debug\SMSSchoolForm2.Properties.Resources.resources
+C:\Users\Sean\Desktop\School\VB.net\SMSSchoolForm2\SMSSchoolForm2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Sean\Desktop\School\VB.net\SMSSchoolForm2\SMSSchoolForm2\obj\x86\Debug\GenerateResource.write.1.tlog
